@@ -1,4 +1,3 @@
-
 # 🩺 Explainable AI-Based Diabetes Risk Prediction and Early Screening System
 
 **Constraint Satisfaction • Fuzzy Logic • Rule-Based Reasoning • Explainable Machine Learning**
