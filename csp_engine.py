@@ -1,4 +1,4 @@
-"""
+ """
 csp_engine.py
 =============
 Constraint Satisfaction Problem (CSP) engine.
